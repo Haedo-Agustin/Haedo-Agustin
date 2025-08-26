@@ -28,8 +28,3 @@ const Me = {
   objetivo: "Conseguir mi próximo desafío profesional en desarrollo de software donde pueda crecer y aportar."
 };
 ```
-
-Si querés, adapto cualquiera de los dos para:
-- Incluir proyectos destacados con enlaces y capturas.
-- Agregar badges (GitHub stats, top languages).
-- Convertir la versión en español a README.md principal (si preferís tu perfil en español).
