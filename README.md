@@ -27,7 +27,7 @@ Other languages: [![Python](https://img.shields.io/badge/Python-3776AB?style=for
 ## 📬 Contacto
 
 - 💼 LinkedIn: https://www.linkedin.com/in/your-profile  
-- 📧 Email: aguustinhaedo@gmail.com  
+- 📧 Email: aguustinhaedo@gmail.com
 - 🌐 Portfolio: https://haedo-agustin.github.io/pagina-web-Portfolio/
 
 ---
