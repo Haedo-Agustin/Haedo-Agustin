@@ -1,15 +1,15 @@
 ## 👋 Hola, soy Agustín Haedo  ##  Hello, I'm Agustín Haedo 👋 ## 
 
 ---
-- es - 💻 Desarrollador Full-Stack enfocado en crear software escalable, mantenible y con impacto real.
-- en - 💻 Full-Stack Developer focused on building scalable, maintainable software with real-world impact.
+- ES -
+💻 Desarrollador Full-Stack enfocado en crear software escalable, mantenible y con impacto real.
+- Soy un programador proactivo y resolutivo que disfruta transformar ideas en productos funcionales. Me destaco por aprender rápido, aplicar buenas prácticas y construir soluciones limpias y confiables.
+🚀 Busco oportunidades para crecer profesionalmente y aportar valor en equipos tecnológicos innovadores.
 
-- es - Soy un programador proactivo y resolutivo que disfruta transformar ideas en productos funcionales. Me destaco por aprender rápido, aplicar buenas prácticas y construir soluciones limpias y confiables.
-- en - I'm a proactive and resourceful programmer who enjoys turning ideas into functional products. I stand out for my ability to learn quickly, apply best practices, and build clean, reliable solutions.
-
-- es - 🚀 Busco oportunidades para crecer profesionalmente y aportar valor en equipos tecnológicos innovadores.
-- en - 🚀 I'm seeking opportunities to grow professionally and add value within innovative technology teams.
-
+- US -
+💻 Full-Stack Developer focused on building scalable, maintainable software with real-world impact.
+- I'm a proactive and resourceful programmer who enjoys turning ideas into functional products. I stand out for my ability to learn quickly, apply best practices, and build clean, reliable solutions.
+🚀 I'm seeking opportunities to grow professionally and add value within innovative technology teams.
 ---
 ## 🧾 Snapshot
 ⨏ 
