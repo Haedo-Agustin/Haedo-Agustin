@@ -27,11 +27,11 @@ const AgustinHaedo = {
 ## ⚡ Perfil Rápido ## Quick Profile ⚡ ## 
 
 - 🧠 Aprendiz autodidacta con enfoque en código listo para producción
-- es - 🤝 Buen colaborador, enfocado en arquitectura limpia y testing
+🇪🇸 - 🤝 Buen colaborador, enfocado en arquitectura limpia y testing
 - ⚡ Entrego valor rápido sin comprometer la mantenibilidad
 
 - 🧠 Self-taught learner with a focus on production-ready code  
-- en - 🤝 Strong collaborator, focused on clean architecture and testing
+🇺🇸 - 🤝 Strong collaborator, focused on clean architecture and testing
 - ⚡ I deliver value quickly without compromising maintainability
 
 ---
@@ -56,10 +56,5 @@ Other languages: [![Python](https://img.shields.io/badge/Python-3776AB?style=for
 ---
 ```js
 const AgustinHaedo = {
-  role: "Full-stack Developer",
-  focus: "Aplicaciones web escalables y APIs limpias",
-  stack: ["React", "Next.js", "Node.js", "PostgreSQL", "MongoDB"],
-  strengths: ["Clean Code", "Automatización", "Arquitectura mantenible"],
-  goal: "Crecer profesionalmente aportando soluciones de alto impacto"
 };
 ```
