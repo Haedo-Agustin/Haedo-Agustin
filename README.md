@@ -25,13 +25,13 @@ const AgustinHaedo = {
 
 ---
 ## ⚡ Perfil Rápido ## Quick Profile ⚡ ## 
-
+  🇪🇸
 - 🧠 Aprendiz autodidacta con enfoque en código listo para producción
-🇪🇸 - 🤝 Buen colaborador, enfocado en arquitectura limpia y testing
+- 🤝 Buen colaborador, enfocado en arquitectura limpia y testing
 - ⚡ Entrego valor rápido sin comprometer la mantenibilidad
-
-- 🧠 Self-taught learner with a focus on production-ready code  
-🇺🇸 - 🤝 Strong collaborator, focused on clean architecture and testing
+  🇺🇸
+- 🧠 Self-taught learner with a focus on production-ready code
+- 🤝 Strong collaborator, focused on clean architecture and testing
 - ⚡ I deliver value quickly without compromising maintainability
 
 ---
